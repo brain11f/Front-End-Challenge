@@ -1,3 +1,5 @@
+'use strict';
+
 var counter = 0;
 
 /* add function */

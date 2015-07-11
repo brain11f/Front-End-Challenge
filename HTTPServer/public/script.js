@@ -1,3 +1,4 @@
+'use strict';
 $(function() {
     
     $('#quote').on('click', function() {
